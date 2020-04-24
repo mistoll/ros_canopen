@@ -2,8 +2,8 @@
 Changelog for package canopen_402
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.8.103 (2020-04-24)
+--------------------
 * Add no_mode_state parameter
 * Contributors: Michael Stoll
 
