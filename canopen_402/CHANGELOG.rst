@@ -2,6 +2,11 @@
 Changelog for package canopen_402
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Add no_mode_state parameter
+* Contributors: Michael Stoll
+
 0.8.2 (2019-11-04)
 ------------------
 * enable rosconsole_bridge bindings

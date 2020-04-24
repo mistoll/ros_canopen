@@ -2,6 +2,9 @@
 Changelog for package canopen_motor_node
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.8.2 (2019-11-04)
 ------------------
 
